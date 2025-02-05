@@ -3,7 +3,7 @@
 UNIDADE 4 | CAPÍTULO 5 | CLOCKS E TEMPORIZADORES 
 ____________________________________________________________________________________________________________________________________
 
-## Aluno (matrícula) => Joelson Santana Alves (tic370101150)
+## Aluno => Joelson Santana Alves 
 
 A tarefa propôs o uso da função add_alarm_in_ms(), presente
 na ferramenta Pico SDK, para projetar um sistema de temporização
