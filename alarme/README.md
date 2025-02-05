@@ -60,7 +60,7 @@ Software
 - Acesso à platarforma Wokwi web e integrada ao VSCode;
 - Ferramentas para upload do código para o Pico (VSCode por meio da biblioteca do Raspberry Pi Pico).
 
-## Link da simulação no WOKWI: https://wokwi.com/projects/421956508567227393
+## Link da simulação no WOKWI: https://wokwi.com/projects/421990692333391873
 
 ## LINK DO REPOSITÓRIO GITHUB: https://github.com/joelson-santana22/Clocks-e-Temporizadores.git
 
