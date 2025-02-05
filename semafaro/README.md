@@ -3,7 +3,7 @@
 UNIDADE 4 | CAPÍTULO 5 | CLOCKS E TEMPORIZADORES 
 ____________________________________________________________________________________________________________________________________
 
-## Aluno (matrícula) => Joelson Santana Alves (tic370101150)
+## Aluno => Joelson Santana Alves
 
 A tarefa propôs o uso da função add_repeating_timer_ms(), presente
 na ferramenta Pico SDK, para projetar um semáforo com
@@ -68,7 +68,7 @@ Software
 
 ## Link da simulação no WOKWI: https://wokwi.com/projects/421956508567227393
 
-## LINK DO REPOSITÓRIO GITHUB: 
+## LINK DO REPOSITÓRIO GITHUB: https://github.com/joelson-santana22/Clocks-e-Temporizadores.git
 
 ## Link do vídeo desmonstrativo: https://drive.google.com/drive/folders/1TwdMEEH33i5T2z9ChqHnVZiTfNX1QGun?usp=sharing
 ____________________________________________________________________________________________________________________________________
