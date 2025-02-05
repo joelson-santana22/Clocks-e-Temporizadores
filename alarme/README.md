@@ -62,7 +62,7 @@ Software
 
 ## Link da simulação no WOKWI: https://wokwi.com/projects/421956508567227393
 
-## LINK DO REPOSITÓRIO GITHUB: 
+## LINK DO REPOSITÓRIO GITHUB: https://github.com/joelson-santana22/Clocks-e-Temporizadores.git
 
 ## Link do vídeo desmonstrativo: https://drive.google.com/drive/folders/1TwdMEEH33i5T2z9ChqHnVZiTfNX1QGun?usp=sharing
 ____________________________________________________________________________________________________________________________________
